@@ -6,4 +6,4 @@ Basically I use storyboard and ViewControllers for ScrollView. Also get out of t
 
 If you curious about whats going on this project **ViewController.m** only place you should look.
 
-![alt tag](https://raw.githubusercontent.com/serhatsezer/ScrollViewPager/master/app_how_to.gif)
+![alt tag](https://raw.githubusercontent.com/serhatsezer/ScrollViewPager/master/app_look.gif)
