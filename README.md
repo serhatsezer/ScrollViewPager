@@ -1,7 +1,7 @@
 ScrollViewPager 
 ===============
 
-Basically I use storyboard and ViewControllers for ScrollView. Also get out of to use ScrollView's delegate methods. I find a solution a few lines of code. 
+Basically I've used storyboard and view controllers for scroll view. Also did not use ScrollView's delegate methods. I have find a consistent solution for this using few lines of code. 
 
 If you curious about whats going on this project **ViewController.m** only place you should look.
 
